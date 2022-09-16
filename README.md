@@ -1,16 +1,13 @@
-# todo_app
+# todo_app_flutter
 
-A new Flutter project.
+This is a todo app built using Flutter following [this](https://www.section.io/engineering-education/how-to-build-a-flutter-todo-app/) tutorial. The app is deployed on Firebase and can be accessed [here](https://todoapp-flutter-70edd.web.app/#/).
 
-## Getting Started
+To add a todo:
+* click the icon on the bottom right corner
+* type the name of the todo you want to add
+* click "ADD"
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To delete a todo:
+* click the icon on the bottom right corner
+* type the name of the todo you want to delete (must match exactly)
+* click "DELETE"
